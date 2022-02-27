@@ -12,3 +12,5 @@ https://leandromichelena.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Leandro Michelena
+
+### ©️2022 Run Buddy, Inc 
